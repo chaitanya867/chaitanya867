@@ -1,7 +1,7 @@
 ### Hi there, I'm Chaitanya - aka [chaitanya867][www.itsofficialnetwork.com] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=itsofficialnetwork.com&style=for-the-badge&url=https%3A%2F%2Fitsofficialnetwork.com)](https://itsofficialnetwork.com)
+[![LinkedIN Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Cloud-DevOps Enthusiastic
 
