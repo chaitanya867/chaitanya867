@@ -4,10 +4,10 @@
 
 ## I'm a Cloud-DevOps Enthusiastic
 
-- 🔭 I just successfully started Digital Marketing Startup having 10+ Clients with collegues: [Digital Marketing](www.itsofficialnetwork.com)!
+- 🔭 I just successfully started Digital Marketing Startup with collegues having 10+ Clients : [check out!!](www.itsofficialnetwork.com)!
 - 🌱 I’m currently learning Cloud , DevOps , Datascience , Bigdata , Networking and many more 
 - 👯 I’m looking towards organization where I can utilize my skills efficiently.
-- 🥅 2021 Goals: Learning and Sharing
+- 🥅 2021 Goals:  !! Learning and Sharing !!
 
 
 ### Connect with me:
@@ -25,11 +25,11 @@
 <br>
 <br>
 
- 
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/03/e5/f6/03e5f6100d2034508b9a1e07baf46927.gif" width = "400" height="250"/>
+<br>
+
 <h3 align="left"> 💻 Tools & Technolgies 💻 </h3>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/03/e5/f6/03e5f6100d2034508b9a1e07baf46927.gif" width = "400" height="250"/>
-<br>
   
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
