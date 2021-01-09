@@ -45,10 +45,10 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Latest Videos posted on linkedIN
 
 <!-- YOUTUBE:START -->
-- [Fancy Burger Menu Button - Animated CSS Effects (2021)](https://www.youtube.com/watch?v=6HS8owNMCb4)
+- [ Create a Setup so that you can ping google but not able to ping Facebook from same system ](https://www.linkedin.com/posts/chaitanya-chougule_vimaldaga-righteducation-educationredefine-activity-6744331690648453120-urKN)
 - [YouTube Rewind 2020 - Web Dev Edition!](https://www.youtube.com/watch?v=F9ON_E6-y1E)
 - ["Glassmorphism" Frosted Glass Credit Card Form with Validation | HTML, CSS, JavaScript](https://www.youtube.com/watch?v=jEa9YyRqE1U)
 - [STOP Declaring IDs!?! JavaScript Global Variables Best Practices](https://www.youtube.com/watch?v=cve1gYV7jWk)
