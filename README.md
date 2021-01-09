@@ -1,4 +1,4 @@
-### Hi there, I'm Chaitanya - aka [chaitanya867][www.itsofficialnetwork.com] 👋
+### Hi there, I'm Chaitanya - aka [chaitanya867](www.itsofficialnetwork.com) 👋
 
 [![Website](https://img.shields.io/website?label=itsofficialnetwork.com&style=for-the-badge&url=https%3A%2F%2Fitsofficialnetwork.com)](https://itsofficialnetwork.com)
 [![LinkedIN Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -49,13 +49,12 @@
 
 <!-- YOUTUBE:START -->
 - [ Create a Setup so that you can ping google but not able to ping Facebook from same system ](https://www.linkedin.com/posts/chaitanya-chougule_vimaldaga-righteducation-educationredefine-activity-6744331690648453120-urKN)
-- [YouTube Rewind 2020 - Web Dev Edition!](https://www.youtube.com/watch?v=F9ON_E6-y1E)
-- ["Glassmorphism" Frosted Glass Credit Card Form with Validation | HTML, CSS, JavaScript](https://www.youtube.com/watch?v=jEa9YyRqE1U)
-- [STOP Declaring IDs!?! JavaScript Global Variables Best Practices](https://www.youtube.com/watch?v=cve1gYV7jWk)
-- [This is ALL you NEED to Become a Web Developer Today (2021)](https://www.youtube.com/watch?v=LTwFX-hitQo)
+- [Ansible Automation for hadoop cluster setup!](https://www.linkedin.com/posts/chaitanya-chougule_rightmentor-righteducation-educationredefine-activity-6744334805804171264-FL0-)
+- [Create a network Topology Setup in such a way so that System A can ping to two Systems System B and System C but both these systems should not be pinging each other without using any security rule e.g firewall etc .](https://www.linkedin.com/posts/chaitanya-chougule_righteducation-rightarth-arthbylw-activity-6744333396941660161-8bMO)
+
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.linkedin.com/in/chaitanya-chougule)
 
 ---
 
@@ -64,7 +63,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Increasing the limit of the storage of the Datanode to the Hadoop Cluster dynamically.](https://www.linkedin.com/pulse/increasing-limit-storage-datanode-hadoop-cluster-chaitanya-chougulehttps://www.linkedin.com/pulse/increasing-limit-storage-datanode-hadoop-cluster-chaitanya-chougule)
 - [Designing High Availability Architecture with AWS S3 , EBS & CloudFront Using AWS CLI ](https://www.linkedin.com/pulse/designing-high-availability-architecture-aws-s3-ebs-using-chougule)
-- [𝘼𝙣𝙨𝙞𝙗𝙡𝙚 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙤𝙣 𝙛𝙤𝙧 𝙃𝙖𝙙𝙤𝙤𝙥 𝘾𝙡𝙪𝙨𝙩𝙚𝙧 𝙎𝙚𝙩 𝙐𝙥](https://www.linkedin.com/posts/chaitanya-chougule_rightmentor-righteducation-educationredefine-activity-6744334805804171264-FL0-)
+- [Integration of Terraform and AWS](https://www.linkedin.com/posts/chaitanya-chougule_rightmentor-righteducation-educationredefine-activity-6744334805804171264-FL0-)
 - [Deployment of WordPress Web Application by Integrating Google Cloud Platform with Kubernetes.](https://www.linkedin.com/pulse/deployment-wordpress-web-application-integrating-google-chougule-1c)
 <!-- BLOG-POST-LIST:END -->
 
@@ -72,23 +71,11 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
-2. ❗️ Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-3. 🗣 Commented on [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❗️ Closed issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="chaitanya867's GitHub Stats" src="https://github-readme-stats.chaitanya867.vercel.app/api?username=chaitanya867&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -97,7 +84,3 @@
 [twitter]: https://twitter.com/ChaitanyaChoug3?s=08
 [instagram]: https://instagram.com/chaitanya867
 [linkedin]: https://linkedin.com/in/chaitanya-chougule
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
