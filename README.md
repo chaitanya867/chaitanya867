@@ -75,7 +75,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="chaitanya867's GitHub Stats" src="https://github-readme-stats.chaitanya867.vercel.app/api?username=chaitanya867&show_icons=true&hide_border=true" />
+  <img align="left" alt="Chaitanya's GitHub Stats" src="https://github-readme-stats.chaitanya867.vercel.app/api?username=chaitanya867&show_icons=true&hide_border=true" />
 
 </details>
 
