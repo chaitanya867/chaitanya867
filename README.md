@@ -1,7 +1,7 @@
 ### Hi there, I'm Chaitanya - aka [chaitanya867](www.itsofficialnetwork.com) 👋
 
 [![Website](https://img.shields.io/website?label=itsofficialnetwork.com&style=for-the-badge&url=https%3A%2F%2Fitsofficialnetwork.com)](https://itsofficialnetwork.com)
-[![LinkedIN Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Linkedin](https://img.shields.io/linkedin?label=follow on linkedin&style=for-the-badge&url=https%3A%2F%2Fhttps://www.linkedin.com/in/chaitanya-chougule)](https://www.linkedin.com/in/chaitanya-chougule)
 
 ## I'm a Cloud-DevOps Enthusiastic
 
@@ -57,7 +57,9 @@
 
 ---
 
-### 📺 Latest Videos posted on linkedIN
+
+
+### 📺 Latest Videos posted on LinkedIn
 
 <!-- YOUTUBE:START -->
 - [ Create a Setup so that you can ping google but not able to ping Facebook from same system ](https://www.linkedin.com/posts/chaitanya-chougule_vimaldaga-righteducation-educationredefine-activity-6744331690648453120-urKN)
