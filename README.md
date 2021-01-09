@@ -56,7 +56,6 @@
 
 ---
 
-### .
 
 ### 📺 Latest Videos posted on LinkedIn
 
@@ -90,8 +89,13 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="chaitanya867's GitHub Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=chaitanya867&show_icons=true&hide_border=true&theme=radical" />
+  
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  
 
 </details>
+
+
 
 [website]: https://itsofficialnetwork.com
 [course]: http://itsofficialnetwork.com
