@@ -5,11 +5,10 @@
 
 ## I'm a Cloud-DevOps Enthusiastic
 
-- 🔭 I just successfully started Digital Marketing Startup having 10+ Clients with collegues: [Digital Marketing][www.itsofficialnetwork.com]!
+- 🔭 I just successfully started Digital Marketing Startup having 10+ Clients with collegues: [Digital Marketing](www.itsofficialnetwork.com)!
 - 🌱 I’m currently learning Cloud , DevOps , Datascience , Bigdata , Networking and many more 
 - 👯 I’m looking towards organization where I can utilize my skills efficiently.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love sports
+- 🥅 2021 Goals: Learning and Sharing
 
 
 ### Connect with me:
@@ -21,8 +20,6 @@
 
 <br />
 
-### Languages and Tools:
-
 
 <!--My Hobbies-->
 <div>
@@ -30,42 +27,28 @@
 <br>
 
  
-<h3 align="left">👨🏼‍💻 Tools & Technolgies 👨🏼‍💻 </h3>
+<h3 align="left"> 💻 Tools & Technolgies 💻 </h3>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/7139c9e132669abc7c8ad116787b638c.gif" width = "400" height="250"/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/03/e5/f6/03e5f6100d2034508b9a1e07baf46927.gif" width = "400" height="250"/>
 <br>
   
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?style=flat-square&logo=amazon-aws&logoColor=white)
   [![Terraform](https://img.shields.io/badge/Automation-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
+  ![EKS](https://img.shields.io/badge/EKS-AWS-purple?style=flat-square&logo=amazon-aws&logoColor=white)
   ![Ansible](https://img.shields.io/badge/Automation-Ansible-yellow??style=flat-square&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?style=flat-square&logo=amazon-aws&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-AWS-purple?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Openstack](https://img.shields.io/badge/-Openstack-yellow?style=flat-square&logo=openstack&logoColor=red)
+ [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 ![YAML](https://img.shields.io/badge/Scripting%20Language%20-YAML-purple?style=flat-square)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-![WebDevelopment ](https://img.shields.io/badge/-Web%20Development-white?style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=flat-square&logo=mysql&logoColor=green)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
 ![ComputerNetwork](https://img.shields.io/badge/-Computer%20Networking-orange?style=flat-square&logo=network)
-![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
- ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
  ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
  ![Hadoop](https://img.shields.io/badge/-Hadoop-blue?style=flat-square&logo=apache-hadoop&logoColor=violet)
  ![BigData](https://img.shields.io/badge/-BigData-purple?style=flat-square)
- ![BashScripting](https://img.shields.io/badge/-BashScripting-blue?style=flat-square)
- ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
- ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
  ![RedHat](https://img.shields.io/badge/OS-RedHat--8-red?style=flat-square&logo=RedHat8&logoColor=black)
- [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
- ![Anaconda](https://img.shields.io/badge/Anaconda-Jupyter%20Notebook-purple?style=flat-square&logo=Anaconda)
- [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
- ![Flutter](https://img.shields.io/badge/App%20Development%20-Flutter-green??style=flat&logo=flutter)
- ![Dart](https://img.shields.io/badge/Android%20Language%20-Dart-yellow??style=flat&logo=dart&logoColor=yellow)
-![Android](https://img.shields.io/badge/-Android-red?logo=android&style=social)&nbsp;&nbsp;
 
 </br>
 </br>
