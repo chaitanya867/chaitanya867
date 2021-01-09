@@ -1,4 +1,4 @@
-### Hi there, I'm Chaitanya - aka [chaitanya867](www.itsofficialnetwork.com) 👋
+### Hi there, I'm Chaitanya - aka [chaitanya867](https://www.linkedin.com/in/chaitanya-chougule) 👋
 
 [![Website](https://img.shields.io/website?label=itsofficialnetwork.com&style=for-the-badge&url=https%3A%2F%2Fitsofficialnetwork.com)](https://itsofficialnetwork.com)
 
@@ -88,7 +88,8 @@
 
 
 <details>
-  <summary>GitHub Stats</summary>
+ 
+###     GitHub Stats
 
   <img align="left" alt="chaitanya867's GitHub Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=chaitanya867&show_icons=true&hide_border=true&theme=radical" />
   
